@@ -11,7 +11,7 @@
 |GND|WHITE|
 |P14|GREEN|
 
-**The LED strip is directional**
+**The LED strip is directional, note the ▶ sign when connecting the cables which denotes the direction of signal**
 
 ## Sample Code
 ![alt text](https://github.com/hyfung/classroom_microbit_kit/blob/white/02_WS2812B/02.png "")
