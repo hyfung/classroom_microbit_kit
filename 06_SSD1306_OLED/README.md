@@ -1,0 +1,18 @@
+# SSD1306 OLED Display
+
+## Importing libaries
+![alt text](https://github.com/hyfung/classroom_microbit_kit/blob/white/06_SSD1306/01.png "Neopixel")
+
+
+## Pin Connection (Reference)
+|Robobit Pin|OLED|
+|-|-|
+|3V|VCC|
+|GND|GND|
+|SDA|SDA|
+|SCL|SCL|
+
+## Sample Code
+![alt text](https://github.com/hyfung/classroom_microbit_kit/blob/white/06_SSD1306/02.png "")
+
+## AOB
