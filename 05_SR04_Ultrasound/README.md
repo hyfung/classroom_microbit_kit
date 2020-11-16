@@ -1,4 +1,4 @@
-# WS2812B LED Strip
+# SR04 Ultrasound Distance Finder
 
 ## Importing libaries
 
