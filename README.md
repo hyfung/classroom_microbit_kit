@@ -16,38 +16,40 @@ Output Devices
 
 ### P5 Kit
 Input Devices
-* DS1820 Waterproof Temperature Probe
 * DHT-11
-* Ultrasound Rangefinder
-* Touch Sensor
+* DS1820 Waterproof Temperature Probe
+* Light Sensor
 * Microphone
 * Rain Sensor
 * Soil Humidity Sensor
-* Light Sensor
+* Touch Sensor
+* Ultrasound Rangefinder
 
 Output Devices
 * 180 Motor
 * 360 Motor
-* Water Pump
 * Fan
+* Water Pump
 
 ### P6 Kit
 Input Devices
+* Button x2
+* DHT-11
+* Human Sensor
 * Light Sensor
 * Potentiometer
-* Ultrasound Rangefinder
 * Rain SEnsor
-* Human Sensor
 * Soil Humidity Sensor
-* Button x2
 * Touch Sensor
-* DHT-11
+* Ultrasound Rangefinder
 
 Output Devices
 * 180 Motor
 * 360 Motor
-* Vibration Motor
-* LED Strip
 * LCD 1602
-* WiFi 8266 Chip
+* LED
+* LED Strip
+* Vibration Motor
 * Water Pump
+* WiFi 8266 Chip
+
