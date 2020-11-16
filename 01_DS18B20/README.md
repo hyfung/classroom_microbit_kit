@@ -7,7 +7,7 @@
 ![alt text](https://github.com/hyfung/classroom_microbit_kit/blob/white/01_DS18B20/01.png "")
 
 ## Sample Code
-TODO
+![alt text](https://github.com/hyfung/classroom_microbit_kit/blob/white/01_DS18B20/02.png "")
 
 ## AOB
 * Pull up resistor is required in this demo, however it was not included
