@@ -11,6 +11,8 @@
 |SDA|SDA|
 |SCL|SCL|
 
+<b>The LCD module must use 5V VCC</b>
+
 ## Sample Code
 ![alt text](https://github.com/hyfung/classroom_microbit_kit/blob/white/07_LCD1602/Code.png "")
 
