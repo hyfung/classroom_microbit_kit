@@ -9,6 +9,8 @@
 |M1A+|Red|
 |M1A-|Black|
 
+If the direction is reversed, simply swap the cable connection
+
 ## Sample Code
 ![alt text](https://github.com/hyfung/classroom_microbit_kit/blob/white/08_Pump/Code.png "")
 
